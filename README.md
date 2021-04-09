@@ -4,9 +4,11 @@
 - 💞️ I’m looking to collaborate on .....
 - 📫 How to reach me: On this Github Respository or my Youtube Channel
 
+Talk to me on this Github Respository: https://github.com/ZI-Youtuber/ZI-Youtuber
+
 My Main Youtube Channel: https://www.youtube.com/channel/UC6srZpri3G-WsLy-lgO_C_w
 
-My Other Youtube Channel: 
+My Other Youtube Channels: 
 - https://www.youtube.com/channel/UCY9QtrRHiedR4V-b2039LDA
 - https://www.youtube.com/channel/UCaNq7nYKnQq1fBN5J1seLMA
 - https://www.youtube.com/channel/UC0KZbVgZfi87fdSMUcfJPtQ
