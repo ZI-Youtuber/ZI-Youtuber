@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT, Programming , Software Development
 - 🌱 I’m currently learning Python and HTML
 - 💞️ I’m looking to collaborate on .....
-- 📫 How to reach me: On Github or my Youtube Channel
+- 📫 How to reach me: On this Github Respository or my Youtube Channel
 
 <!---
 ZI-Youtuber/ZI-Youtuber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
