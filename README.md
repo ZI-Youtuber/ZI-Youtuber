@@ -6,6 +6,8 @@
 
 Talk to me on this Github Respository: https://github.com/ZI-Youtuber/ZI-Youtuber
 
+Replit Profile: https://replit.com/@ZIYoutuber
+
 My Main Youtube Channel: https://www.youtube.com/channel/UC6srZpri3G-WsLy-lgO_C_w ==> ZI Zoraez
 
 My Other Youtube Channels: 
