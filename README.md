@@ -13,7 +13,7 @@ My Main Youtube Channel: https://www.youtube.com/channel/UC6srZpri3G-WsLy-lgO_C_
 My Other Youtube Channels: 
 - https://www.youtube.com/channel/UCY9QtrRHiedR4V-b2039LDA  ==> Ilmopedia Kids
 - https://www.youtube.com/channel/UCaNq7nYKnQq1fBN5J1seLMA ==> Home Pets Entertainment
-- https://www.youtube.com/channel/UC0KZbVgZfi87fdSMUcfJPtQ ==> Codeopedia - Programming of Epicness
+- https://www.youtube.com/channel/UC0KZbVgZfi87fdSMUcfJPtQ ==> Codeopedia - The Epic World of Programming
 
 
 <!---
