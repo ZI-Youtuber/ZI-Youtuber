@@ -23,11 +23,11 @@ Replit Profile: https://replit.com/@ZIYoutuber
 - https://www.youtube.com/channel/UCaNq7nYKnQq1fBN5J1seLMA ==> Home Pets Entertainment
 - https://www.youtube.com/channel/UC0KZbVgZfi87fdSMUcfJPtQ ==> Codeopedia - The Epic World of Programming
 
-[![ZI-Youtuber's GitHub stats](https://github-readme-stats.vercel.app/api?ZI-Youtuber=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![ZI-Youtuber's GitHub stats](https://github-readme-stats.vercel.app/api?ZI-Youtuber=ZI-Youtuber)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 <!---
 ZI-Youtuber/ZI-Youtuber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+---
