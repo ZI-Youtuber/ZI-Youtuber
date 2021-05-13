@@ -24,6 +24,8 @@ Replit Profile: https://replit.com/@ZIYoutuber
 - https://www.youtube.com/channel/UC0KZbVgZfi87fdSMUcfJPtQ ==> Codeopedia - The Epic World of Programming
 
 [![ZI-Youtuber's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZI-Youtuber&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZI-Youtuber&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
