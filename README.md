@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZI-Youtuber
 - 👀 I’m interested in IT, Programming , Software Development
 - 🌱 I’m currently learning Python and HTML
-- 💞️ I’m looking to collaborate on .....
+- 💞️ I collaborate on @Scratch-Dev-Team and @Scratch-Bookmarklet
 - 📫 How to reach me: On this Github Respository or my Youtube Channel
 
 Talk to me on this Github Respository: https://github.com/ZI-Youtuber/ZI-Youtuber
