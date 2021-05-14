@@ -4,6 +4,8 @@
 - 💞️ I collaborate on @Scratch-Dev-Team and @Scratch-Bookmarklet
 - 📫 How to reach me: On this Github Respository or my Youtube Channel
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=ZI-Youtuber&theme=radical)
+
 Talk to me on this Github Respository: https://github.com/ZI-Youtuber/ZI-Youtuber
 
 Replit Profile: https://replit.com/@ZIYoutuber
@@ -23,10 +25,9 @@ Replit Profile: https://replit.com/@ZIYoutuber
 - https://www.youtube.com/channel/UCaNq7nYKnQq1fBN5J1seLMA ==> Home Pets Entertainment
 - https://www.youtube.com/channel/UC0KZbVgZfi87fdSMUcfJPtQ ==> Codeopedia - The Epic World of Programming
 
-
 ![ZI Coder's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZI-Youtuber&theme=tokyonight&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZI-Youtuber&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Trophies](https://github-profile-trophy.vercel.app/?username=ZI-Youtuber&theme=radical)
+
 
 
 
