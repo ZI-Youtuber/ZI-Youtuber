@@ -26,6 +26,7 @@ Replit Profile: https://replit.com/@ZIYoutuber
 
 ![ZI Coder's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZI-Youtuber&theme=tokyonight&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZI-Youtuber&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Trophies](https://github-profile-trophy.vercel.app/?username=ZI-Youtuber&theme=radical)
 
 
 
