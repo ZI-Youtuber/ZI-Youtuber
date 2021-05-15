@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT, Programming , Software Development
 - 🌱 I’m currently learning Python, HTML, CSS, Javascript, VBScript
 - 💞️ I collaborate on @Scratch-Dev-Team and @Scratch-Bookmarklet
-- 📫 How to reach me: On this Github Respository or my Youtube Channel
+- 📫 How to reach me: On this Github Respository, my Youtube Channel or my Scratch Accounts
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ZI-Youtuber&theme=radical)
 
