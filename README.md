@@ -5,7 +5,7 @@
 - 👨‍💼 I am working on few open source projects 
 - 📫 How to reach me: On this Github Respository, my Youtube Channel or my Scratch Accounts
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ZI-Youtuber&theme=algolia)
+![Trophies](https://github-profile-trophy.vercel.app/?username=ZI-Youtuber&theme=radical)
 
 Talk to me on this Github Respository: https://github.com/ZI-Youtuber/ZI-Youtuber
 
