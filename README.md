@@ -1,3 +1,8 @@
+## Hello I'm ZI Coder!!!!
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ZI-Youtuber&label=Profile%20views&color=0e75b6&style=flat" alt="shluffy" /> </p>
+
+
 - 👋 Hi, I’m @ZI-Youtuber
 - 👀 I’m interested in IT, Programming , Software Development
 - 🌱 I’m currently learning Python, HTML, CSS, Javascript, VBScript
