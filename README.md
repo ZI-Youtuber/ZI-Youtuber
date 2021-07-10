@@ -26,10 +26,7 @@ Replit Profile: https://replit.com/@ZIYoutuber
 
 **My Youtube Channels:**
 
-- https://www.youtube.com/channel/UC6srZpri3G-WsLy-lgO_C_w ==> ZI Zoraez
 - https://www.youtube.com/channel/UCY9QtrRHiedR4V-b2039LDA  ==> Ilmopedia Kids
-- https://www.youtube.com/channel/UCaNq7nYKnQq1fBN5J1seLMA ==> Home Pets Entertainment
-- https://www.youtube.com/channel/UC0KZbVgZfi87fdSMUcfJPtQ ==> Codeopedia - The Epic World of Programming
 
 [![ZI Coder's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZI-Youtuber&count_private=true&show_icons=true&theme=algolia&border_radius=15px&include_all_commits=true)](https://github.com/ZI-Youtuber/)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZI-Youtuber&langs_count=10&count_private=true&show_icons=true&theme=algolia&border_radius=15px&include_all_commits=true&layout=compact)](https://github.com/ZI-Youtuber?tab=repositories)
