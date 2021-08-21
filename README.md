@@ -18,9 +18,7 @@ Replit Profile: https://replit.com/@ZIYoutuber
 
 **Scratch profiles:**
 
-- https://scratch.mit.edu/users/ISLAMICPRO2020/ ==> Main Scratch Account
-- https://scratch.mit.edu/users/ScratchCodeYoutube/ ==> For my Coding Youtube Channel
-- https://scratch.mit.edu/users/ScratchCodeYoutube2/ ==> For my Coding Youtube Channel
+- https://scratch.mit.edu/users/ISLAMICPRO2020 ==> Main Scratch Account
 - https://scratch.mit.edu/users/IlmopediaKids/ ==> For my Educational Youtube Channel
 
 
