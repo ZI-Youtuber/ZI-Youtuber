@@ -8,18 +8,13 @@
 - 🌱 I’m currently learning Python, HTML, CSS, Javascript, VBScript
 - 💞️ I collaborate on @FriendsCollab
 - 👨‍💼 I am working on few open source projects 
-- 📫 How to reach me: On this Github Respository, my Youtube Channel or my Scratch Accounts
+- 📫 How to reach me: On this Github Respository or my discord
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ZI-Youtuber&theme=radical)
 
 Talk to me on this Github Respository: https://github.com/ZI-Youtuber/ZI-Youtuber
 
 Replit Profile: https://replit.com/@ZIYoutuber
-
-**Scratch profiles:**
-
-- https://scratch.mit.edu/users/ISLAMICPRO2020 ==> Main Scratch Account
-- https://scratch.mit.edu/users/IlmopediaKids/ ==> For my Educational Youtube Channel
 
 
 **My Youtube Channels:**
