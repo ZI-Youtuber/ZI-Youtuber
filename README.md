@@ -1,4 +1,4 @@
-## Hello I'm ZI Coder!!!!
+## Hello I'm Zoraez!!!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ZI-Youtuber&label=Profile%20views&color=0e75b6&style=flat" alt="shluffy" /> </p>
 
@@ -6,7 +6,7 @@
 - 👋 Hi, I’m @ZI-Youtuber
 - 👀 I’m interested in IT, Programming , Software Development
 - 🌱 I’m currently learning Python, HTML, CSS, Javascript, VBScript
-- 💞️ I collaborate on @FriendsCollab
+- 💞️ I collaborate on @IlmopediaKids
 - 👨‍💼 I am working on few open source projects 
 - 📫 How to reach me: On [this](https://github.com/ZI-Youtuber/ZI-Youtuber) Github Respository or my discord name : ZI-Youtuber#8803 
 
