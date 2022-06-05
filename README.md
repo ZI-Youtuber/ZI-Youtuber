@@ -6,7 +6,7 @@
 - 👋 Hi, I’m @ZI-Youtuber
 - 👀 I’m interested in IT, Programming , Software Development
 - 🌱 I’m currently learning Python, HTML, CSS, Javascript, VBScript
-- 💞️ I work at Ilmopedia Kids
+- 💞️ I am the Founder of Ilmopedia ORG
 - 👨‍💼 I am working on few open source projects 
 - 📫 How to reach me: On [this](https://github.com/ZI-Youtuber/ZI-Youtuber) Github Respository or my discord name : ZI-Youtuber#8803 
 
