@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Python, HTML, CSS, Javascript, VBScript
 - 💞️ I am the Founder of The Ilm Foundation ( @ilmfoundation ) , Byte X ( @ByteXO ) and Zorware ( @zorware )
 - 👨‍💼 I am working on few open source projects 
-- 📫 How to reach me: On [this](https://github.com/ZI-Youtuber/ZI-Youtuber) Github Respository or my discord name : ZI-Youtuber#8803 
+- 📫 How to reach me: On my discord : ZI-Youtuber#8803 
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ZI-Youtuber&theme=radical)
 
