@@ -6,7 +6,7 @@
 - 👋 Hi, I’m @ZI-Youtuber
 - 👀 I’m interested in IT, Programming , Software Development
 - 🌱 I’m currently learning Python, HTML, CSS, Javascript, VBScript
-- 💞️ I am the Founder of The Ilm Foundation ( @ilmfoundation ) and Byte X ( @ByteXO )
+- 💞️ I am the Founder of The Ilm Foundation ( @ilmfoundation ) , Byte X ( @ByteXO ) and Zorware ( @zorware )
 - 👨‍💼 I am working on few open source projects 
 - 📫 How to reach me: On [this](https://github.com/ZI-Youtuber/ZI-Youtuber) Github Respository or my discord name : ZI-Youtuber#8803 
 
@@ -20,11 +20,6 @@ Codepen Profile : https://codepen.io/zi-youtuber
 
 CodeSandbox Profile : https://codesandbox.io/u/ZI-Youtuber
 
-
-**My Youtube Channels:**
-
-- https://www.youtube.com/channel/UCY9QtrRHiedR4V-b2039LDA  ==> Ilmopedia Kids
-- https://www.youtube.com/channel/UC6srZpri3G-WsLy-lgO_C_w ==> ZI Zoraez
 
 [![ZI Coder's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZI-Youtuber&count_private=true&show_icons=true&theme=algolia&border_radius=15px&include_all_commits=true)](https://github.com/ZI-Youtuber/)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZI-Youtuber&langs_count=10&count_private=true&show_icons=true&theme=algolia&border_radius=15px&include_all_commits=true&layout=compact)](https://github.com/ZI-Youtuber?tab=repositories)
